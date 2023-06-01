@@ -2,6 +2,7 @@
 
 # @autor: Matheus Felipe
 # @github: github.com/matheusfelipeog
+#branch de modificação do Breno para a disciplina de Desenvolvimento de Software Livre
 
 class Calculador(object):
     """Classe responsável por realizar todos os calculos da calculadora"""
